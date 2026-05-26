@@ -1,2 +1,2 @@
-# this file is for contributor list
-- sami@gamil.com - contribute on testing and v1 development
+# This file is for contributor list
+- [Sami][sami@gmail.com]: contribute on testing and v1 development
